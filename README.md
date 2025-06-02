@@ -1,5 +1,7 @@
 # 👋 Hey there! I'm Luis Angel Camarena Martínez
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=278A12&width=435&lines=FULL-STACK+web+and+app+developer+;%2B4+years+of+coding+experience)](https://git.io/typing-svg)
+
 **Intelligent Systems Engineering student** at UASLP 🎓  
 Passionate about building software that *actually* solves problems — especially in digital communities, indie games, and systems with solid architecture (and a little flair, of course).
 
